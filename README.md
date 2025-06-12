@@ -13,7 +13,7 @@ I previously worked at [**SimpliSafe**](https://simplisafe.com/), where I was pa
 - **Others**: Git, Github, GitHub Actions
 - **Observability**: Grafafa and [Honeycomb](https://www.honeycomb.io/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-turk-simplisafe&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-turk-simplisafe&hide_progress=true) -->
 
 ### 📈 GitHub Stats
 
